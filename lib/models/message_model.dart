@@ -26,7 +26,7 @@ final User greg = User(
   imageUrl: 'assets/images/greg.jpg',
 );
 final User james = User(
-  id: 0,
+  id: 2,
   name: 'james',
   imageUrl: 'assets/images/james.jpg',
 );
